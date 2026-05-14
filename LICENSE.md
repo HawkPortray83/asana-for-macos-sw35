@@ -1,4 +1,4 @@
-#  
+#  advanced ClickUp for macOS Utility | widgets + quick search is the best ClickUp for macOS utility, featuring widgets and quick search. Safe, efficient, and optimized for macOS
 
 
 
